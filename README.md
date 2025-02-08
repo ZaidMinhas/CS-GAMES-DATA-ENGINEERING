@@ -1,5 +1,5 @@
 # CS-GAMES-DATA-ENGINEERING
-## YOU ARE NOT ALLOWED TO USE AN IDE THAT USES AI, ESPECIALLY GOOGLE COLAB
+**NOTE**: YOU ARE NOT ALLOWED TO USE AN IDE THAT USES AI, ESPECIALLY GOOGLE COLAB
 For this challenge you are given the [LEGO Sets and Prices Over Time](https://www.kaggle.com/datasets/alexracape/lego-sets-and-prices-over-time)
 
 * You are provided a `Challenge.ipynb` file and a `sets.csv` dataset.
